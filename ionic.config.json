@@ -1,0 +1,7 @@
+{
+  "name": "IonicWallet",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
